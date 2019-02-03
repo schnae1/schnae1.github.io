@@ -1,6 +1,8 @@
 #  **Welocme to Schnae1's homepage!**
 ## Test text here.
 
+[Link](https://github.com/schnae1)
+
 ```markdown
 Syntax highlighted code block
 
