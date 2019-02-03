@@ -1,5 +1,5 @@
-## Welocme to Schnae1's homepage!
-# Test text here.
+#  **Welocme to Schnae1's homepage!**
+## Test text here.
 
 ```markdown
 Syntax highlighted code block
