@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+title: Welcome to the Schnae1's homepage!
+description: This will be the showcase site for my projects.
 
 You can use the [editor on GitHub](https://github.com/schnae1/schnae1.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
