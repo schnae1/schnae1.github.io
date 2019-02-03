@@ -1,7 +1,7 @@
 #  **Welocme to Schnae1's homepage!**
 ## Test text here.
 
-[Github Repo](https://github.com/schnae1)
+[Github Projects](https://github.com/schnae1/projects)
 
 ```markdown
 Syntax highlighted code block
