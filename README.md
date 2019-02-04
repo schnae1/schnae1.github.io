@@ -2,7 +2,7 @@
 
 #  **Welocme! Below you can browse through some of my personal projects I have worked on outside of school.**
 
-## Durable Price Update (Java)
+## **Durable Price Update (Java)**
 
 ### I created a price updating program when I was working for an industrial supply company one summer. 
 
