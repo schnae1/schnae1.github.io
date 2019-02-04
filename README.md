@@ -1,10 +1,49 @@
-#  **Welocme to Schnae1's homepage!**
-## Test text here.
-
-[Github Projects](https://github.com/schnae1/projects)
-
-
 ![image tooltip here](schnae1.github.io/39686040380_210b4aa386_o.jpg)
+
+#  **Welocme! Below you can browse through some of my personal projects I have worked on outside of school.**
+
+## Email Script (Python)
+
+```markdown
+
+```
+[Github Projects](https://github.com/schnae1/projects/tree/master/email)
+
+
+## Fantasy Football Notification (Python)
+
+```markdown
+
+```
+[Github Projects](https://github.com/schnae1/projects/tree/master/ffnotify)
+
+## Durable Price Update (Java)
+
+```markdown
+
+```
+[Github Projects](https://github.com/schnae1/projects/tree/master/prjDurablePriceUpdate)
+
+## Location Based Restaurant Webapp (Python)
+
+```markdown
+
+```
+[Github Projects](https://github.com/schnae1/projects/tree/master/webapp)
+
+## Foodies Android App (Java)
+
+```markdown
+
+```
+[Github Projects](https://github.com/schnae1/Foodies)
+
+
+
+
+
+
+
 
 ```markdown
 Syntax highlighted code block
