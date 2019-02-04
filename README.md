@@ -2,22 +2,9 @@
 
 #  **Welocme! Below you can browse through some of my personal projects I have worked on outside of school.**
 
-## Email Script (Python)
-
-```markdown
-
-```
-[Email Sript Code](https://github.com/schnae1/projects/tree/master/email)
-
-
-## Fantasy Football Notification (Python)
-
-```markdown
-
-```
-[Fantasy Fooball Notify Code](https://github.com/schnae1/projects/tree/master/ffnotify)
-
 ## Durable Price Update (Java)
+
+### I created a price updating program when I was working for an industrial supply company one summer. 
 
 ```markdown
 
@@ -38,33 +25,16 @@
 ```
 [Android App Code](https://github.com/schnae1/Foodies)
 
-
-
-
-
-
-
+## Fantasy Football Notification (Python)
 
 ```markdown
-Syntax highlighted code block
 
-
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+[Fantasy Fooball Notify Code](https://github.com/schnae1/projects/tree/master/ffnotify)
 
+## Email Script (Python)
 
+```markdown
 
+```
+[Email Sript Code](https://github.com/schnae1/projects/tree/master/email)
