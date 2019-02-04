@@ -7,7 +7,7 @@
 ```markdown
 
 ```
-[Github Projects](https://github.com/schnae1/projects/tree/master/email)
+[Email Sript Code](https://github.com/schnae1/projects/tree/master/email)
 
 
 ## Fantasy Football Notification (Python)
@@ -15,28 +15,28 @@
 ```markdown
 
 ```
-[Github Projects](https://github.com/schnae1/projects/tree/master/ffnotify)
+[Fantasy Fooball Nofity Code](https://github.com/schnae1/projects/tree/master/ffnotify)
 
 ## Durable Price Update (Java)
 
 ```markdown
 
 ```
-[Github Projects](https://github.com/schnae1/projects/tree/master/prjDurablePriceUpdate)
+[Price Update Code](https://github.com/schnae1/projects/tree/master/prjDurablePriceUpdate)
 
 ## Location Based Restaurant Webapp (Python)
 
 ```markdown
 
 ```
-[Github Projects](https://github.com/schnae1/projects/tree/master/webapp)
+[Webapp Code](https://github.com/schnae1/projects/tree/master/webapp)
 
 ## Foodies Android App (Java)
 
 ```markdown
 
 ```
-[Github Projects](https://github.com/schnae1/Foodies)
+[Android App Code](https://github.com/schnae1/Foodies)
 
 
 
