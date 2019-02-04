@@ -6,7 +6,7 @@
 
 ## Durable Price Update (Java)
 
-[Durable Price Update](https://schnae1.github.io/durablepriceupdate)
+## [Durable Price Update](https://schnae1.github.io/durablepriceupdate)
 
 ## Location Based Restaurant Webapp (Python)
 
