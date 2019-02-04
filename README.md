@@ -15,7 +15,7 @@
 ```markdown
 
 ```
-[Fantasy Fooball Nofity Code](https://github.com/schnae1/projects/tree/master/ffnotify)
+[Fantasy Fooball Notify Code](https://github.com/schnae1/projects/tree/master/ffnotify)
 
 ## Durable Price Update (Java)
 
