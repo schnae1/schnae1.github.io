@@ -6,12 +6,7 @@
 
 ## Durable Price Update (Java)
 
- I created a price updating program when I was working for an industrial supply company one summer.
-
-```markdown
-
-```
-[Price Update Code](https://github.com/schnae1/projects/tree/master/prjDurablePriceUpdate)
+[Durable Price Update](https://schnae1.github.io/durablepriceupdate)
 
 ## Location Based Restaurant Webapp (Python)
 
