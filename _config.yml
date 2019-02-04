@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Eric's Projects
 description: A site to share my current projects.
+include: ['durablepriceupdate']
