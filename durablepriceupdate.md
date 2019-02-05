@@ -1,5 +1,7 @@
 # Durable Price Update (Java)
 
+[Durable Price Update Source Code](https://schnae1.github.io/durablepriceupdate)
+
 Last summer I had the opportunity to work for a company that sold industrial supplies. They had a particular product line that included thousands of different parts, many were posted on their ecommerce website.
 
 The manufacturer that produces these parts had a huge price increase on nearly all of the products they made. The company that I worked for had a need to go through and adjust the prices of all these products. The only way to get the current pricing from the manufacturer was to log onto the vendor website, enter eight part numbers at a time into the input text boxes, hit the submit button, record the updated prices and then repeat the process. 
