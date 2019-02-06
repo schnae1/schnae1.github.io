@@ -1,6 +1,6 @@
 # Durable Price Update (Java)
 
-**[** Source Code **](https://schnae1.github.io/durablepriceupdate)**
+**[** Source Code **](https://github.com/schnae1/projects/tree/master/prjDurablePriceUpdate)**
 
 Last summer I had the opportunity to work for a company that sold industrial supplies. They had a particular product line that included thousands of different parts, many were posted on their ecommerce website.
 
