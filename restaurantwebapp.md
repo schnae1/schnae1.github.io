@@ -12,5 +12,7 @@ The initial data that was used came from OpenStreetMap using overpass turbo. Thi
 
 The webapp displays to the user the nearest restaurants within a specified distance. The distances are displayed in meters, for the time being. The user location is hard coded in for now, but I plan on using Google’s location API in the future so that user location can be retrieved automatically.
 
+![image tooltip here](schnae1.github.io/nearbyrestaurants.PNG)
+
 This project is very basic and simple, but I plan on adding to it and improving it the more I learn and become familiar with all the various frameworks.
 
