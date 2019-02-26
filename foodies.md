@@ -6,7 +6,7 @@ I’m currently working on this project so it is not yet complete. I my goal is 
 
 I’m using Google’s Firebase Authentication API for authenticating user sessions. So far I have created a login or register activity and a user activity once logged in, hat has a button to click to log out.
 
-![image tooltip here](schnae1.github.io/foodies1.jpg)
+![image tooltip here](schnae1.github.io/foodies1.jpg) <!-- .element height="50%" width="50%" -->
 
 Right now the app is very basic and is a work in progress.
 
