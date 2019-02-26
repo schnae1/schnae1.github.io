@@ -12,5 +12,5 @@ Right now the app is very basic and is a work in progress.
 
 ![foodies2](schnae1.github.io/foodies2.jpg)
 
-![image tooltip here](schnae1.github.io/foodies3.png)
+![foodies3](schnae1.github.io/foodies3.png)
 
