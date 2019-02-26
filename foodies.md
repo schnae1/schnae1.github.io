@@ -10,7 +10,7 @@ I’m using Google’s Firebase Authentication API for authenticating user sessi
 
 Right now the app is very basic and is a work in progress.
 
-![foodies2](schnae1.github.io/foodies2.jpg)
+<img src="schnae1.github.io/foodies2.jpg" width="270" height="480">
 
-![foodies3](schnae1.github.io/foodies3.png)
+<img src="schnae1.github.io/foodies3.jpg" width="270" height="480">
 
