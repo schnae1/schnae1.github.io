@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: Eric's Projects
 description: A site to share my current projects.
+button : button
 [Home]({{ site.url }}/)
