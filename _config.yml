@@ -1,3 +1,6 @@
+url: "https://schnae1.github.io"
+baseurl: ""
+
 theme: jekyll-theme-cayman
 title: Eric's Projects
 description: A site to share my current projects.
