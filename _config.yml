@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: Eric's Projects
 description: A site to share my current projects.
-permalink: /:categories/:year/:month/:day/:title:output_ext
+permalink: /:categories
+[Button]({% https://schnae1.github.io/ %})
