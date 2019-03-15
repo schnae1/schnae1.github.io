@@ -1,4 +1,4 @@
-#url: "https://schnae1.github.io"
+url: "https://schnae1.github.io"
 
 theme: jekyll-theme-cayman
 title: Eric's Projects
@@ -22,13 +22,10 @@ footer-col: "#F5F5F5"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
   
-  share-links-active:
+share-links-active:
   twitter: true
   facebook: true
   google: false
   linkedin: true
-  
-  plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
+
 
