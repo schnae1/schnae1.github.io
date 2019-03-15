@@ -9,4 +9,8 @@ navbar-links:
     - Learn markdown: ""
     - GitHub Pages: ""
   Author's home: ""
+  
+  plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
 
