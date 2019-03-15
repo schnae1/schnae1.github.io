@@ -1,3 +1,12 @@
 theme: jekyll-theme-cayman
 title: Eric's Projects
 description: A site to share my current projects.
+
+navbar-links:
+  About Me: ""
+  Resources:
+    - Beautiful Jekyll: ""
+    - Learn markdown: ""
+    - GitHub Pages: ""
+  Author's home: ""
+
