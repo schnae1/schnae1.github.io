@@ -10,6 +10,12 @@ navbar-links:
     - GitHub Pages: ""
   Author's home: ""
   
+  share-links-active:
+  twitter: true
+  facebook: true
+  google: false
+  linkedin: true
+  
   plugins:
   - jekyll-paginate
   - jekyll-sitemap
