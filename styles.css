@@ -60,12 +60,12 @@ span {
 #about-content {
   display: flex;
   flex-direction: row;
-  padding-top: 14vh;
+  padding-top: 5vh;
   /*justify-content: space-between;*/
 }
 #about h2 {
   margin-top: 60px;
-  margin-bottom: 30px;
+  margin-bottom: 5px;
   text-align: center;
   text-transform: uppercase;
 }
@@ -103,13 +103,13 @@ span {
   height: 38px;
   background-color: #00FFFF;
 }
-.java-skills {
+.skills-js {
   width: 65%;
   height: 38px;
   background-color: #00FFFF;
 }
-.skills-js {
-  width: 55%;
+.java-skills {
+  width: 65%;
   height: 38px;
   background-color: #00FFFF;
 }
@@ -140,10 +140,6 @@ span {
   padding-right: 5px;
 }
 .c-skills p {
-  padding-top: 5px;
-  padding-right: 5px;
-}
-.skills-js p {
   padding-top: 5px;
   padding-right: 5px;
 }
