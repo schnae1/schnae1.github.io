@@ -108,6 +108,11 @@ span {
   height: 38px;
   background-color: #00FFFF;
 }
+.skills-js {
+  width: 55%;
+  height: 38px;
+  background-color: #00FFFF;
+}
 .c-skills {
   width: 45%;
   height: 38px;
@@ -135,6 +140,10 @@ span {
   padding-right: 5px;
 }
 .c-skills p {
+  padding-top: 5px;
+  padding-right: 5px;
+}
+.skills-js p {
   padding-top: 5px;
   padding-right: 5px;
 }
