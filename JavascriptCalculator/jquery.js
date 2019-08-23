@@ -1,6 +1,5 @@
 $(document).ready(function(){
   let expression = "";
-  console.clear();
   
   function checkDigitCount(expr) {
     if(expr.length < 15){
@@ -18,7 +17,6 @@ $(document).ready(function(){
     // Evaluate multiplication and division
     let regex = /(\-)?(\d+|\d+\.\d+)(\/|\*)(\-)?(\d+(\.\d+)?)/;
     let multDiv = expr.match(regex);
-    console.log(multDiv);
     
     while(multDiv != null) {
       numsArr = multDiv[0].split(/(\*|\/)/);
@@ -35,7 +33,6 @@ $(document).ready(function(){
     // Evaluate addition and subtraction
     let reg = /^[+-]?(\d+|\d+\.\d+)(\+|\-)[+-]?(\d+(\.\d+)?)/;
     let addSub = expression.match(reg);
-    console.log(addSub);
 
     while(addSub != null) {
       result = eval(addSub[0]);
