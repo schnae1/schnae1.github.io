@@ -1,0 +1,170 @@
+$button-color: #1282A2;
+$body-color: #FEFCFB;
+$calc-color: #001F54
+;
+
+@import url('https://fonts.googleapis.com/css?family=Orbitron&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: $body-color;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#calculator-container {
+  height: 495px;
+  width: 350px;
+  background-color: $calc-color;
+  box-shadow: 5px 10px #888888;
+  border-radius: 3px;
+}
+#display {
+  width: 340px;
+  height: 100px;
+  background-color: black;
+  margin: 5px 5px 10px 5px;
+}
+#display-value {
+  color: white;
+  float: right;
+  font-size: 25px;
+  font-family: 'Orbitron', sans-serif;
+  max-width: 340px;
+  max-height: 100px;
+  overflow-wrap: break-word;
+  margin-top: 45px;
+}
+#button-group {
+  width: 340px;
+  height: 380px;
+  margin: 0px 5px 5px 5px;
+}
+#clear {
+  width: 169px;
+  height: 75px;
+  float: left;
+  border-width: 1px 0px 1px 1px;
+  border-style: solid;
+  border-color: black;
+  background-color: $button-color;
+  font-size: 24px;
+}
+#divide {
+  height: 75px;
+  width: 86px;
+  margin: 0px;
+  padding: 0px;
+  float: left;
+  border: 1px solid black;
+  font-size: 24px;
+  background-color: $button-color;
+}
+#multiply {
+  height: 75px;
+  width: 85px;
+  margin: 0px;
+  padding: 0px;
+  float: left;
+  border-width: 1px 1px 1px 0px;
+  border-style: solid;
+  border-color: black;
+  font-size: 24px;
+  background-color: $button-color;
+}
+#seven, #four, #one {
+  height: 75px;
+  width: 85px;
+  margin: 0px;
+  padding: 0px;
+  float: left;
+  border-width: 0px 1px 1px 1px;
+  border-style: solid;
+  border-color: black;
+  font-size: 24px;
+  background-color: $button-color;
+}
+#eight, #five, #two {
+  height: 75px;
+  width: 85px;
+  margin: 0px;
+  padding: 0px;
+  float: left;
+  border-width: 0px 1px 1px 0px;
+  border-style: solid;
+  border-color: black;
+  font-size: 24px;
+  background-color: $button-color;
+}
+#nine, #six, #three {
+  height: 75px;
+  width: 85px;
+  margin: 0px;
+  padding: 0px;
+  float: left;
+  border-width: 0px 1px 1px 0px;
+  border-style: solid;
+  border-color: black;
+  font-size: 24px;
+  background-color: $button-color;
+}
+#subtract, #add {
+  height: 75px;
+  width: 85px;
+  margin: 0px;
+  padding: 0px;
+  float: left;
+  border-width: 0px 1px 1px 0px;
+  border-style: solid;
+  border-color: black;
+  font-size: 24px;
+  background-color: $button-color;
+}
+#equals {
+  height: 150px;
+  width: 85px;
+  margin-top: -75px;
+  padding: 0px;
+  float: left;
+  border-width: 0px 1px 1px 0px;
+  border-style: solid;
+  border-color: black;
+  font-size: 24px;
+  background-color: $button-color;
+}
+#zero {
+  width: 169px;
+  height: 75px;
+  float: left;
+  border-width: 0px 0px 1px 1px;
+  border-style: solid;
+  border-color: black;
+  font-size: 24px;
+  background-color: $button-color;
+}
+#decimal {
+  height: 75px;
+  width: 86px;
+  margin: 0px;
+  padding: 0px;
+  float: left;
+  border-width: 0px 1px 1px 1px;
+  border-style: solid;
+  border-color: black;
+  font-size: 24px;
+  background-color: $button-color;
+}
+#clear:hover, #divide:hover, #multiply:hover,
+  #seven:hover, #eight:hover, #nine:hover, #subtract:hover,
+  #four:hover, #five:hover, #six:hover, #add:hover,
+  #one:hover, #two:hover, #three:hover, #zero:hover,
+  #decimal:hover, #equals:hover {
+  cursor: pointer;
+  background-color: #E9EDDE;
+  border-width: 3px;
+}

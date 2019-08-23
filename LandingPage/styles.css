@@ -1,0 +1,187 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+Bhai&display=swap');
+
+.wrapper {
+  position: relative;
+}
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  color: white;
+  height: 55px;
+  min-width: 300px;
+  background-color: #5A6869;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  
+}
+#company-name {
+  font-size: 32px;
+  font-family: 'Baloo Bhai', arial;
+  
+}
+img {
+  max-width: 55px;
+  animation: rotation 0.3s linear 3;
+}
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+.logo {
+  display: flex;
+  flex-direction: row;
+  height: 55px;
+  align-items: center;
+  white-space: nowrap;
+  margin-right: auto;
+  padding-left: 10px
+}
+nav {
+  width: 700px;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  flex-wrap: wrap;
+  font-size: 18px;
+  font-family: 'Baloo Bhai', arial;
+}
+a {
+  color: white;
+  text-decoration:none
+}
+body {
+  background-color: #E4EDED;
+  margin: 0;
+  font-family: arial;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+}
+#features {
+  max-width: 900px;
+  margin: 0 auto;
+}
+#offers {
+  text-align: center;
+  margin: 5% 0 10% 0;
+}
+#materials h2, #shipping h2, #quality h2 {
+  margin-bottom: -10px;
+}
+#materials, #shipping, #quality {
+  padding: 6px;
+}
+#how-it-works {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 5%;
+}
+#pricing {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 5%;
+  flex-wrap: wrap;
+}
+.complete, .custom, .deck {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 300px;
+  height: 370px;
+  border: solid black 1px;
+  margin: 0 1% 0 1%;
+}
+.complete p, .custom p, .deck p {
+  margin: 5px; 
+}
+#inside {
+  background-color: #5A6869;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 20px;
+  padding: 15px 0;
+  width: 100%;
+}
+button:hover, #submit:hover{
+  background-color: #FFC500;
+}
+
+.btn {
+  border-radius: 3px;
+  border: none;
+  font-size: 18px;
+  padding: 12px 18px;
+  background-color: #FFCB1B;
+  margin-top: 5%;
+}
+footer {
+  display: flex;
+  flex-direction: column;
+  background-color: #5A6869;
+  justify-content: flex-start;
+  width: 100%;
+  height: 70px;
+  color: white;
+}
+ul {
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 5px;
+  margin-left: 1px;
+}
+li {
+  padding: 0 7px;
+}
+span {
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+@media (max-width: 800px) {
+  #description {
+    width: auto;
+    height: auto;
+  }
+}
+#description {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-image: url("https://images.pexels.com/photos/700953/pexels-photo-700953.jpeg?cs=srgb&dl=action-dawn-leisure-700953.jpg&fm=jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  height: 800px;
+  color: black;
+  margin: 0 0 5% 0;
+}
+ul {
+  list-style: none;
+
+}
+#submit {
+  border-radius: 3px;
+  border: none;
+  font-size: 18px;
+  padding: 7px 18px;
+  background-color: #FFCB1B;
+}
+#email {
+  font-size: 18px;
+}
