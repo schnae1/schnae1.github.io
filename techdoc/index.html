@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Technical Documentation">
+  <meta name="author" content="Eric Schnackenberg">
+  <meta name=viewport content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="styles.css">
+  <title>Technical Documentation</title>
+</head>
+<body>
+  
+  <nav id="navbar"> 
+    <header id="main-header"><h1>C++ Documentation</h1></header>
+    <ul>
+      <li><a class="nav-link" href="#Introduction">Introduction</a></li>
+      <li><a class="nav-link" href="#Hello_World">Hello World</a></li>
+      <li><a class="nav-link" href="#Variables">Variables</a></li>
+      <li><a class="nav-link" href="#Conditional_Statements">Conditional Statements</a></li>
+      <li><a class="nav-link" href="#Functions">Functions</a></li>
+    </ul>
+  </nav>
+  
+  <main id="main-doc">
+    
+    <section class="main-section" id="Introduction">
+      <header><h2>Introduction</h2></header><a name="Introduction"></a>
+      <p>C++ is a general-purpose language that has many applications. it's object oriented, generic, and functional features are the reasons why so many people use it today.</p>
+      <p>Often times, people who are learning to program learn C++ first. </p>
+      
+    </section>
+    
+    <section class="main-section" id="Hello_World">
+      <header><h2>Hello World</h2></header><a name="Hello_World"></a>
+      <p>To get started writing programs in C++ we will first write a simple program that outputs "Hello World!" to the screen.</p>
+      <div id="code">
+      <code>
+        int main(){
+        </br>
+          cout << "Hello World!" << endl;
+        </br>
+        return 0;
+        </br>
+        }
+      </code>
+      </div>
+      <p>Along with the code above, the lines "#include < iostream >" and "using namespace std;" must be included for the program to run.</p>
+      
+    </section>
+    
+    <section class="main-section" id="Variables">
+      <header><h2>Variables</h2></header><a name="Variables"></a>
+      <p>Variables are used to store values. Each variable has a type and can hold a given value of that type.</p>
+      <p>The different primitive types variables can hold are:
+        <ul>
+          <li>Integer (int)</li>
+          <li>Character (char)</li>
+          <li>Boolean (bool)</li>
+          <li>Floating Point (float)</li>
+          <li>Double Floating Point (double)</li>
+          <li>Void (void)</li>
+        </ul>
+      </p>
+      <p>Some ways to declare and assign values to variables can be seen bellow:</p>
+      <div id="code"><code>int x = 9;</code></div>
+      </br>
+      <div id="code"><code>double y = 2.3;</code></div>
+      </br>
+      <div id="code"><code>bool z = false;</code></div>
+      
+    </section>
+    
+    <section class="main-section" id="Conditional_Statements">
+      <header><h2>Conditional Statements</h2></header><a name="Conditional_Statements"></a>
+      <p>Conditional statements change the flow of the program. For example, if a given condition is trure, do something else. If the condition is false, do nothing.</p>
+      <p>The keyword "if" is used for conditional statements. An example is given below. Try to determine what the output would be.</p>
+      
+      <div id="code"><code>
+        bool x = true;
+        </br>
+        if(x)
+        </br>
+        cout << "It is true!" << endl;
+        </code></div>
+      
+    </section>
+    
+    <section class="main-section" id="Functions">
+      <header><h2>Functions</h2></header><a name="Functions"></a>
+      <p>A function is a part of the code that can be reused over and over without having to rewrite that section of code multiple times. You can write it once, then call that function when ever you need use it.</p>
+      <p>See the section below for an example.</p>
+      
+      <div id="code"><code>
+        int main(){
+        </br>
+        </br>
+        int num = iadd(3,4);
+        </br>
+        </br>
+        }
+        </br>
+        int iadd(int a, int b){
+        </br>
+        </br>
+        return a + b;
+        </br>
+        </br>
+        }
+        </code></div>
+      
+    </section>
+    
+  </main>
+  
+</body>
+
+</html>
