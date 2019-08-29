@@ -1,6 +1,6 @@
 ## Fantasy Football Notification (Python)
 
-**[** Source Code **](https://github.com/schnae1/projects/tree/master/ffnotify)**
+**[** Source Code **](https://github.com/schnae1/ffNotify)**
 
 I wrote this program as a way to get notified when a team drops fantasy football player. Often times, teams will drop players that should not be dropped on account that they just don’t know any better. When they are dropped, the first one to pick them up gets them. So speed is a factor.
 
