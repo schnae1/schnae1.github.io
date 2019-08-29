@@ -1,6 +1,6 @@
 # Durable Price Update (Java)
 
-**[** Source Code **](https://github.com/schnae1/projects/tree/master/prjDurablePriceUpdate)**
+**[** Source Code **](https://github.com/schnae1/DurablePriceUpdate)**
 
 Last summer I had the opportunity to work for a company that sells industrial supplies. They sell products locally as well as on their ecommerce website. One of their major product lines consist of thousands of different part numbers. The manufacturer who produces the products had a price increase on nearly all of their products last year. The increase wasn’t a fixed increase percentage across all products, but differed from product to product.
 
@@ -15,8 +15,3 @@ Once the data was read in, I used the HtmlUnit API to navigate to the manufactur
 The updated prices were then written to another Excel file and from there that file was imported back into QuickBooks. This cut the time down from several hours to about a few minutes.
 
 The amount of time you can save automating work is amazing!
-
-
-```markdown
-
-```
