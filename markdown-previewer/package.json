@@ -1,5 +1,6 @@
 {
   "name": "markdown-previewer",
+  "homepage": "http://schnae1.github.io/markdown-previewer/public",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
