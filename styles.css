@@ -1,12 +1,38 @@
-@import url('https://fonts.googleapis.com/css?family=Noto+Sans+HK&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lexend+Mega|Roboto&display=swap');
 
-body {
+body, html {
   display: flex;
   flex-direction: column;
-  font-family: 'Noto Sans HK', arial;
-  font-weight: 100;
-}
-* {
+  justify-content: space-evenly;
+  align-items: center;
   margin: 0;
   padding: 0;
+  height: 100%;
+  width: 100%;
+  font-family: 'Lexend Mega', sans-serif;
+  background-color: #FBFFF1;
+  color: #3C3744;
+}
+h1 {
+  text-align: center;
+  font-size: 45px;
+}
+#projects {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 2px solid #3C3744;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  max-width: 500px;
+  min-width: 300px;
+  font-size: 26px;
+}
+a {
+  text-decoration: none;
+  color: #3C3744;
+  margin: 20px;
+}
+a:hover {
+  color: #090C9B;
 }
